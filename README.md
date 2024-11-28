@@ -1,5 +1,7 @@
 # LabMobile10_SyadinaZufarin_Vue-Firebase_Shift-F
 
+Kode Source Code lengkap : https://drive.google.com/file/d/12nQO-mZVlxwFWIecuX7ogrOiMPktlCD_/view?usp=sharing
+
 Melanjutkan tampilan vue-firebase yang dibuat sebelumnya, ada beberapa fitur yang ditambahkan dalam aplikasi ini yaitu To Do. 
 To Do berguna untuk membuat jadwal atau catatan kegiatan yang akan kita lakukan. Dalam hal ini saya sudah membuat beberapa To Do dalam aplikasi ini. 
 To do yang saya buat yakni rencana untuk jogging, skripsi serta jadwal skincare routine yang sudah saya mark sebagai to do completed.
