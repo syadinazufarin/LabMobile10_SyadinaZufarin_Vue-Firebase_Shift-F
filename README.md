@@ -28,7 +28,10 @@ Terakhir, kita dapat menandai bahwa to do yang kita buat sudah selesai dengan me
 
 ![Screenshot Halaman complete](assets/complete.png)
 
-Jika kita ingin mengaktifkan kembali to do yang sudah kita selesaikan maka kita dapat melakukan swipe ke kiri pada bagian to do yang sudah complete dan akan muncul button berwarna orange dengan logo silang yang akan mengaktifkan kembali to do yang sudah selesai, selain itu akan muncul alert bertuliskan " Todo marked as active". 
+Jika kita ingin mengaktifkan kembali to do yang sudah kita selesaikan maka kita dapat melakukan swipe ke kiri pada bagian to do yang sudah complete dan akan muncul button berwarna orange dengan logo silang yang akan mengaktifkan kembali to do yang sudah selesai, selain itu akan muncul alert bertuliskan " Todo marked as active". Saya mencoba mengaktifkan kembali To Do "Nonton Drakor" yang sebelumnya sudah saya marked sebagai to do complete dan berhasil.
+
+![Screenshot Halaman active](assets/active.png)
+
 
 
 
